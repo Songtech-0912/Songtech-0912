@@ -2,8 +2,11 @@
 
 ```json
 {
-"Hello": "there!"
-  "I'm Jacky": "Nice to meet you."
+	"Welcome to my Github": [{
+		"Hello": "there!"
+	}, {
+		"I'm Jacky": "Nice to meet you."
+	}]
 }
 ```
 
