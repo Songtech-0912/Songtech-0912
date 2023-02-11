@@ -15,8 +15,7 @@
 I am a high school student who's an enthusiast in the world of free and open-source software! 
 
 - 🔭 I’m currently working on [Project Elära](https://github.com/elaraproject)
-- 🌱 I’m currently self-learning Rust, Python, Web Design and UI Design
-- 🤔 I’m looking for help with a code refactoring of [my personal open-source code editor](https://github.com/Songtech-0912/Pyrite)
+- 🌱 I’m self-learning Rust, Python, Web Design and UI Design
 - 💬 Ask me about open-source, software design, and everything in between!
 - ⚡ Fun fact: I am a hopeless Vim user despite acknowledging VS Code is the best code editor
 
