@@ -29,9 +29,9 @@ And, of course, check out my repositories! Here are some of my best:
 
 * [Notli](https://github.com/Songtech-0912/notli-notes) - open-source, freely-accessible collected notes
 
-* [Blendicons](https://github.com/Songtech-0912/blender-icons) - a web-based browser for high-quality open-source icons
+* [ElaraNet](https://github.com/elaraproject/elara-net) - a neural network for spacetime metric optimization
 
-* [Natron UI Redesign](https://github.com/Songtech-0912/natron-ui-ux-design) - UI redesign of [Natron](https://github.com/NatronGitHub/Natron), aiming to bring Natron to a more professional level!
+* [Light of Hope](https://github.com/Songtech-0912/light-of-hope) - comforting musical pieces, dedicated to the public domain
 
 ## Before you leave...
 
