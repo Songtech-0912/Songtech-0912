@@ -19,10 +19,6 @@ I am a high school student who's an enthusiast in the world of free and open-sou
 - 💬 Ask me about open-source, software design, and everything in between!
 - ⚡ Fun fact: I am a hopeless Vim user despite acknowledging VS Code is the best code editor
 
-## My Stats
-
-![Songtech's github stats](https://github-readme-stats.vercel.app/api?username=Songtech-0912&show_icons=true)
-
 ## Find out more
 
 And, of course, check out my repositories! Here are some of my best:
